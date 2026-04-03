@@ -1,3 +1,3 @@
 mashfan website!
 
-uses vvye's smw font: https://github.com/vvye/smw-font
+plans to usevvye's smw font: https://github.com/vvye/smw-font
