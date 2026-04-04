@@ -7,8 +7,9 @@ p {
 	text-align: center;
 }
 img {
-	color: #FFFFFF;
-	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 header {
 	color: #FFFFFF;
